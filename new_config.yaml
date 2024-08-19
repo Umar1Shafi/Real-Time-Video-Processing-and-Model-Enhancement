@@ -1,0 +1,6 @@
+train: D:/Python-Project-ML/yolov8-video-input-Pesrsonal-training-model -Draft-4/new_data/images/train
+val: D:/Python-Project-ML/yolov8-video-input-Pesrsonal-training-model -Draft-4/new_data/images/train
+
+# Classes
+names:
+  0: Horse  # Now using 0 as the class index
